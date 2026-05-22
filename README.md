@@ -1,6 +1,9 @@
 # The Hour 🕰️ ⚙️
 'The Hour' is a 3D-printable marble desk top clock. It was made to mimic the classic striking of the hour of a traditional clock but with marbles. The model was designed specifically for the Marble Runs competition and fits neatly onto standard printer beds and uses gravity to trigger the bell strike.
 
+## Demo Video
+[![Watch the Demo On YouTube](https://img.youtube.com/vi/UPdoJaWenXM/maxresdefault.jpg)](https://youtu.be/UPdoJaWenXM)
+
 ## Features
 * Automatically connects to WiFi and syncs time securely via NTP.
 * Handles UK daylight savings (GMT/BST) automatically.
